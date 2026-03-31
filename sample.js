@@ -9,4 +9,6 @@ const person = "Miloš";
 greet("World");
 greet("JavaScript");
 greet(person);
+greet("Everyone");
+greet("Developers");
 console.log("----------------------------------------");
